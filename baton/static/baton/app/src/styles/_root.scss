@@ -135,10 +135,10 @@
   --#{$prefix}baton-body-bg: #fff;
   --#{$prefix}baton-content-bg: #f5f5f5;
   --#{$prefix}baton-content-title-bg: #fafafa;
-  --#{$prefix}btn-active-color: #fff;
-  --#{$prefix}btn-active-bg: #f90;
-  --#{$prefix}btn-active-border-color: #f90;
-  --#{$prefix}baton-accent-color: #b3c100
+  --#{$prefix}btn-active-color: #000;
+  --#{$prefix}btn-active-bg: #fdf8f8;
+  --#{$prefix}btn-active-border-color: #fdf8f8;
+  --#{$prefix}baton-accent-color: #8c8c00;
 
   // utils
   --#{$prefix}baton-warning-color: #d39e00;
@@ -355,10 +355,10 @@
     --#{$prefix}baton-body-bg: #202020;
     --#{$prefix}baton-content-bg: #202020;
     --#{$prefix}baton-content-title-bg: #303D46;
-    --#{$prefix}btn-active-color: #000;
-    --#{$prefix}btn-active-bg: #f90;
-    --#{$prefix}btn-active-border-color: #f90;
-    --#{$prefix}baton-accent-color: #b3c100
+  --#{$prefix}btn-active-color: #000;
+  --#{$prefix}btn-active-bg: #fdf8f8;
+  --#{$prefix}btn-active-border-color: #fdf8f8;
+  --#{$prefix}baton-accent-color: #8c8c00;
 
     // utils
     --#{$prefix}baton-warning-color: #d39e00;
