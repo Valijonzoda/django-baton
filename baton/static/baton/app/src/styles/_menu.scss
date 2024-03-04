@@ -21,6 +21,9 @@ body:not(.menu-mobile) {
 }
 
 .sidebar-menu {
+  .active{
+    z-index: 0!important;
+  }
   background: var(--bs-baton-menu-bg);
   color: var(--bs-baton-menu-color);
   height: 100%;
@@ -199,6 +202,7 @@ body:not(.menu-mobile) {
       overflow: auto;
       position: absolute;
       width: 100%;
+      z-index: 1000;
 
       div {
         align-items: center;
